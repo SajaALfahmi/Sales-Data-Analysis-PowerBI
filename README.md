@@ -24,7 +24,7 @@ The final report was published to **Power BI Service** under *My Workspace* for 
 ---
 
 ## Key Features
-- Relational data modeling (star schema)  
+- Relational data modeling 
 - Clean and interactive visual design  
 - Filters and slicers for deeper analysis  
 - Published and accessible online via Power BI Service
